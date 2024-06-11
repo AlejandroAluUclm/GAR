@@ -2,7 +2,7 @@
 Repositorio para el trabajo de Gestión y Administración de Redes
 
 ## TECNOLOGÍAS ESCOGIDAS
-Baremetal Provisioning			          -> Foreman
+Baremetal Provisioning			          -> PXE+tftp
 
 Configuration management/provisioning	-> puppet
 
